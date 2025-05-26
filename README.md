@@ -15,7 +15,7 @@ This repository contains a clone of a cloud-based marketplace application. The p
 
 ## 🚀 Live Deployment Architecture (AWS)
 
-![AWS Architecture](AWS.drawio.png)
+![Image](https://github.com/user-attachments/assets/6ec6db01-e605-4085-bd4e-19e6f26e2bbd)
 
 ### 🔧 Architecture Components
 
